@@ -26,9 +26,3 @@ The "Guess the Number" game is a fun and interactive web application built with 
 4. **Try to guess the number** in as few attempts as possible to maximise the score.
 
 
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to adjust the sections and content based on your actual project details and requirements!
