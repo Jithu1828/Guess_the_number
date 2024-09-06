@@ -3,10 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-html {
-  font-size: 62.5%;
-}
+html { font-size: 62.5%; }
 
 body {
   font-family: 'Verdana', sans-serif;
@@ -32,7 +29,6 @@ h1 {
   color: #6c757d;
   text-align: center;
 }
-
 header { margin-bottom: 3rem;}
 
 button {
@@ -55,7 +51,6 @@ button:hover {
   left: 50%;
   transform: translateX(-50%);
 }
-
 .btn { margin-top: 2rem;}
 
 main {
@@ -65,10 +60,7 @@ main {
   align-items: center;
   flex-direction: column; 
 }
-
-.left, .right {
-  text-align: center;
-}
+.left, .right {text-align: center;}
 
 .guess {
   width: 12rem;
@@ -111,17 +103,8 @@ main {
   justify-content: center;
   align-items: center;
   margin: 2rem auto; 
-  text-align: center;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
-
-.correct-guess {
-  color: black;
-}
-
-.correct-guess h1 {
-  color: rgb(239, 231, 231); 
-}
+.correct-guess h1 {color: rgb(239, 231, 231); }
 
 .correct-guess .again {
   color: rgb(255, 253, 253); 
